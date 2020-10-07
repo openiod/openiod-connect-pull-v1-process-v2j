@@ -1,18 +1,18 @@
 {
   "name": "openiod-connect-pull-v2j",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "OpenIoD connector v1 v2j",
   "main": "index.js",
   "dependencies": {
     "axios": "^0.20.0",
-    "influx": "^5.6.3"
+    "influx": "^5.6.3",
+    "openiod-connect-pull-v1": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-  },
+  "repository": {},
   "author": "André van der Wiel <awiel@scapeler.com> (https://www.scapeler.com/)",
   "license": "CC-BY-SA 4.0"
 }
