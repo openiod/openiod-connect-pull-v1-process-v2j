@@ -1,5 +1,5 @@
 {
-  "name": "openiod-connect-pull-v1-process-v2j",
+  "name": "openiod-connect-pull-v1-v2j",
   "version": "1.0.0",
   "description": "OpenIoD connector v1 v2j",
   "dependencies": {
