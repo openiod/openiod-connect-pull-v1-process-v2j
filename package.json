@@ -1,6 +1,6 @@
 {
   "name": "openiod-connect-pull-v2j",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "OpenIoD connector v1 v2j",
   "main": "index.js",
   "dependencies": {
