@@ -6,7 +6,7 @@
   "dependencies": {
     "axios": "^0.20.0",
     "influx": "^5.6.3",
-    "openiod-connect-pull-v1": "^1.0.1"
+    "openiod-connect-pull-v1": "^1.0.2"
   },
   "devDependencies": {},
   "scripts": {
