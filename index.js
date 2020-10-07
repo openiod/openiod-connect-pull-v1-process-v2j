@@ -17,3 +17,7 @@ If not, see <https://www.gnu.org/licenses/>.
 */
 
 "use strict";
+
+const connPull = require('openiod-connect-pull-v1')
+
+connPull.init()
