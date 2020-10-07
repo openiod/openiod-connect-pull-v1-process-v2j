@@ -58,7 +58,7 @@ Options:
 
 e.g.:
 * node index -h  (get help info)
-* node index -c '{configdir}' -s '{servicename}' -p 'openiod-connect-pull-{processname}'
+* node index -c '{configdir}' -s '{servicename}' -p 'openiod-connect-pull-v2j'
 
 # license
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
