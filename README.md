@@ -8,7 +8,9 @@ For more info see: https://github.com/openiod/openiod-connect-pull-v1
 ## Dependencies
 Nodejs
 ## Application
-This module is used as a executor of process which act like a stand-alone service.
+This module executes a process as a stand-alone service. Depending on the configuration
+it will run once or in a continues mode.
+
 
 The structure of the application directory tree looks like this:
 
